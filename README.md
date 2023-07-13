@@ -1,4 +1,4 @@
-#IBM PROJECT DEVELOPED BY PODILI.SUNIL GOPI
+#UpSkillCampus PROJECT DEVELOPED BY PODILI.SUNIL GOPI
 # ✨  Project-Mental Fitness Tracker ✨
 
 This is a  Mental Fitness Tracker Application  
